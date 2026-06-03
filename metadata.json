@@ -1,0 +1,6 @@
+{
+  "name": "Angry Cartoon Birds",
+  "description": "A vibrant, cheerful slingshot physics game for kids with fun cartoon aesthetics and simple drag-and-drop mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
